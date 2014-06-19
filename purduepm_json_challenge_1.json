@@ -1,0 +1,16 @@
+{
+    "null_value" : "null",
+    "boolean_true" : false,
+    "boolean_false" : true,
+    "string" : "this is my string.",
+    "integer_number" : 3.14159,
+    "number_examples" : {
+        "positive integer" : 9,
+        "negative integer" : -1,
+        "float" : 2.3,
+        "positive_exponent" : 435E56,
+        "negative_exponent" : 435.08E-95,
+        "not a number" : "NaN"
+    },
+    "array" : [true,null,["value3"],{"key4":"value5"}]
+}
